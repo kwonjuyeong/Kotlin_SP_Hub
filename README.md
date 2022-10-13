@@ -77,13 +77,15 @@
 ![image](https://user-images.githubusercontent.com/57522230/195579986-101cbf9e-2b44-4604-a730-987054491e07.png)
 
 
-Design Pattern Study
+Design Pattern  Study
 - 총괄 -> IOS, Android
 
 내용
 - Solid 원칙
+(단일 책임 원칙, 개방 폐쇄 원칙*, 리스코프 치환 원칙, 인터페이스 분리 원칙, 의존성 역전 원칙)
 - Singletone Pattern
-- ObserverPattern
+- Observer Pattern
+- Templete Pattern
 - 개발 책 추천
 
 
