@@ -89,5 +89,8 @@ Design Pattern  Study
 - 개발 책 추천
 
 
-
+2022/10/16 14:00~18:00
+세 번째 모임
+============================
+https://gusty-roof-83a.notion.site/42a44dcb6a27416d92dcfaf8099cf45c
 
